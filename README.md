@@ -20,13 +20,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyabansal16&label=Profile%20views&color=0e75b6&style=flat" alt="ananyabansal16" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-ananyabansal16s-projects.vercel.app/](https://personal-portfolio-ananyabansal16s-projects.vercel.app/)
+- 📚 Pursuing B.E. in Computer Engineering at **Thapar Institute of Engineering and Technology**
+
+- 👨‍💻 All of my projects are available at [my portfolio website](https://personal-portfolio-ananyabansal16s-projects.vercel.app/)
 
 - 📫 How to reach me **ananya.bansal2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wpmj2oZ63LX8BM2dRvC6jt7fOOxGy3R3/view?usp=sharing](https://drive.google.com/file/d/1Wpmj2oZ63LX8BM2dRvC6jt7fOOxGy3R3/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wpmj2oZ63LX8BM2dRvC6jt7fOOxGy3R3/view?usp=sharing)
 
-- ⚡ Fun fact **I am also a trained Bharatnatyam Dancer**
+- ⚡ Fun fact **I am also a trained Bharatnatyam Dancer** 💃
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
