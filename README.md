@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wpmj2oZ63LX8BM2dRvC6jt7fOOxGy3R3/view?usp=sharing)
 
-- ⚡ Fun fact **I am also a trained Bharatnatyam Dancer** 💃
+- ⚡ Fun fact **I am also a trained Bharatnatyam Dancer**  💃
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
