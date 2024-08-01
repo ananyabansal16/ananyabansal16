@@ -50,3 +50,5 @@ Here are some ideas to get you started:
 <hr>
 
 [![An image of @ananya16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ananya16)](https://holopin.io/@ananya16)
+
+<hr>
